@@ -1,0 +1,22 @@
+{
+  "name": "ecommece-relogio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "star": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrejoao/ecommece-relogio.git"
+  },
+  "author": "Alexandre José",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrejoao/ecommece-relogio/issues"
+  },
+  "homepage": "https://github.com/alexandrejoao/ecommece-relogio#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
